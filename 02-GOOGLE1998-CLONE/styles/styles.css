@@ -1,0 +1,78 @@
+/* General Style  */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+form {
+  width: 80%;
+  margin: 5px auto 15px auto;
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+}
+
+p {
+  margin: 0 auto;
+}
+
+/* Search Area Section Style  */
+.search-area {
+    background-color: #eeeeee;
+  }
+
+.search-bar {
+  margin: 0 auto;
+  width: 50%;
+  min-height: 18px;
+  display: block;
+  border-radius: 5px;
+}
+
+/* Link Area Section and Footer Section Style */
+td,
+footer {
+  font-size: small;
+}
+
+.normal-font {
+  font-size: medium;
+}
+
+.row {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+  overflow: auto;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  overflow: auto;
+  flex-direction: row;
+  height: 95px;
+  border: solid #ffff;
+  border-width: thin;
+}
+.column:nth-child(1) {
+  background-color: #7ee5da;
+}
+.column:nth-child(2) {
+  background-color: #70ccc2;
+}
+.column:nth-child(3) {
+  background-color: #62b3aa;
+}
