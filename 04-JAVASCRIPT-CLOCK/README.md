@@ -7,10 +7,10 @@ This project is created to practice Javascript skills in the scope of "Frontend 
 
 ## Screenshots: 📷
 
-![Prompt](final\Screenshot_1.jpg)
+![Prompt](final/Screenshot_1.jpg)
 
 
-![Main Page](final\Screenshot_2.jpg)
+![Main Page](final/Screenshot_2.jpg)
 
 
 ## Technologies Used: ☕️ 🐍 ⚛️
